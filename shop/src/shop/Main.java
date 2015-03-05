@@ -14,7 +14,7 @@ public class Main
 
 	}
 	private static void mainMenue(BufferedReader br) throws IOException {
-		System.out.println("Ultra - Shop");		
+		System.out.println("laptop");		
 		System.out.println();	
 		System.out.println("################################");	
 		System.out.println("##  Kundenverwaltung     [1]  ##");	
