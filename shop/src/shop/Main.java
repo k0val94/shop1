@@ -45,7 +45,7 @@ public class Main
 		
 		break;
 		case 4: 
-			System.out.print("Programm ende...");
+			System.out.print("Programm beendend");
 			System.exit(0);
 		break;
 		}
