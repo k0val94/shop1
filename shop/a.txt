@@ -1,0 +1,4 @@
+Stift|5|0|
+Radiergummi|4|1|
+Linial|3|2|
+Spitzer|4|3|

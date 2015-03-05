@@ -1,0 +1,5 @@
+Mueller|Anna|DE, Kyllburg, Am Hof 4|0|
+Schmidt|Katy|DE, Berlin, Hauptstraﬂe 4|1|
+Mueller|Manuel|DE, Bitburg, Am Industriegebiet 7|2|
+Laender|Kai|DE, Bremen, Am Baumbach 23|3|
+Schild|Benni|NL, Amsterdam, Maas 9|4|
