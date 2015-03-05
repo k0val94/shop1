@@ -14,7 +14,7 @@ public class Main
 
 	}
 	private static void mainMenue(BufferedReader br) throws IOException {
-		System.out.println("neue View von Desktop PC");		
+		System.out.println("noch neuere View von Desktop PC");		
 		System.out.println();	
 		System.out.println("################################");	
 		System.out.println("##  Kundenverwaltung     [1]  ##");	
